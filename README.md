@@ -1,10 +1,12 @@
-### Hi, I'm Adi 👋🏼 🧑🏻‍💻
+### Hi, I'm Adi 👋🏼💻😄
 
 Aspiring Data Scientist / Data Engineer
 
-- 👯 
-- 🤝 
-- 👀 
+I am currently finishing up the final quarter of my Master's program at the University of Denver, and hoping to break into the Data Science field by the end of the year. 
+
+- 👯 I love to collaborate on projects! Currently I am looking for projects related to natural language processing (NLP) and computer vision
+- 🤝 I am passionate about continuing to develop my modeling skills as well as my engineering skills 😃
+- 👀 Constantly on the lookout for project ideas, especially ones that allow me to showcase the full end-to-end data pipeline skills
 
 Contact me!
 <div id="badges">
